@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/sowmiya2931/sowmiya2931/blob/main/github-header-image.png)](https://github.com/sowmiya2931)
 <h1 align="center">Hi 👋, I'm Dadly Sowmiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer with expertise in front-end development, Python Django, and MySQL. </h3>
 
 <img align="right" alt="coding" width="400" height="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
