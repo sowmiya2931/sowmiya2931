@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9D9pzjNA7W3JH7cssfQDLdSYGqtXDySdVye4cQY5TKlBpvN_ICeFl7asWT7gqM0NyQ80&usqp=CAU)](https://github.com/sowmiya2931)
+[![MasterHead](https://github.com/sowmiya2931/sowmiya2931/blob/main/github-header-image.png)](https://github.com/sowmiya2931)
 <h1 align="center">Hi 👋, I'm Dadly Sowmiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
