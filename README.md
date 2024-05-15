@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sowmiyagopalakrishnan860@gmail.com**
 
-<div> <a href="[https://www.linkedin.com/in/Dadly Sowmiya](https://www.linkedin.com/in/dadly-sowmiya-38803623b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="www.linkedin.com/in/dadly-sowmiya-38803623b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sowmiya2931" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/sowmya_krishnan__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:sowmiyagopalakrishnan860@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
