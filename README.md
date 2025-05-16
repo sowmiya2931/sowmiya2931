@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowmiya2931&theme=onedark" alt="sowmiya2931" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
-
 - 📫 How to reach me **sowmiyagopalakrishnan860@gmail.com**
 
 <div> <a href="www.linkedin.com/in/dadly-sowmiya-38803623b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
